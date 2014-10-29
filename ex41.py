@@ -50,4 +50,3 @@ class Halibut(Fish):
 rover = Dog('rover')
 satan = Cat('Satan')
 mary = Person('Mary')
-
